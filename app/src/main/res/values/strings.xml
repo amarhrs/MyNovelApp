@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Novel</string>
+
+    <string name="novels_name">Nama Novel</string>
+    <string name="description">Deskripsi</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="about">About</string>
+    <string name="name">Amar Haris Yunianto</string>
+    <string name="email">amarharisyunianto@gmail.com</string>
+    <string name="deskripsi_buku">Deskripsi Buku</string>
+    <string name="deskripsi_sinopsis">Sinopsis</string>
+    <string name="share">Bagikan</string>
+
+
+    <string-array name="data_name">
+        <item>Dia Adalah Kakakku</item>
+        <item>Hujan</item>
+        <item>Pergi</item>
+        <item>Pulang</item>
+        <item>Rindu</item>
+        <item>Sagaras</item>
+        <item>Si Anak Kuat</item>
+        <item>Si Anak Spesial</item>
+        <item>Wingit</item>
+        <item>Home Sweat Loan</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/dia_adalah_kakakku</item>
+        <item>@drawable/hujan</item>
+        <item>@drawable/pergi</item>
+        <item>@drawable/pulang</item>
+        <item>@drawable/rindu</item>
+        <item>@drawable/sagaras</item>
+        <item>@drawable/si_anak_kuat</item>
+        <item>@drawable/si_anak_spesial</item>
+        <item>@drawable/wingit</item>
+        <item>@drawable/home_sweet_loan</item>
+    </integer-array>
+
+    <string-array name="data_description">
+        <item>
+            Novel Dia Adalah Kakakku merupakan novel bergenre drama yang berkisah tentang seorang kakak yang mengorbankan apapun agar adik-adiknya bisa sekolah. Cerita ini juga berupaya menyampaikan kisah tentang rasa sabar dan penerimaan serta tentang keluarga yang penuh perjuangan. Sudahkah kamu terbuai cerita menggugah ini?
+            \n\nSinopsis
+            \n\nBuat apa kamu memikirkan apa yang dipikirkan orang lain? Buat apa kamu mencemaskan apa yang akan dinilai orang lain? Kekhawatiran, juga kecemasan yang sejatinya mungkin tidak pernah ada.”
+            \n\nDulu, sekarang, hingga kapan pun, dia adalah kakakku.
+            \n\nNovel ini memiliki 384 halaman dan terbagi menjadi 44 bab. Novel ini berbicara tentang kisah Raisa, seorang gadis gemuk, rambut gimbal, dan fisik lebih pendek dari yang lain. Namun, Raisa juga seorang kakak perempuan, dan terlepas dari garis keturunan saudara kandung yang berbeda, dia membuat pengorbanan besar untuk menjaga keempat adik-adiknya, Dalimunte, Ikanuri, Wibisana, dan Yashinta.
+            \n\nDarwis (lahir 21 Mei 1979) adalah seorang penulis dan akuntan asal Indonesia yang lebih dikenal dengan nama samaran Tere Liye. Ia memulai debut menulisnya pada tahun 2005 dengan novel Hafalan Shalat Delisa, dan telah menerbitkan lebih dari 50 buku hingga saat ini.
+        </item>
+
+        <item>
+            Novel Hujan merupakan novel yang mengisahkan kisah cinta serta perjuangan hidup Lail. Saat usianya baru menginjak 13 tahun, Lail menjadi seorang yatim piatu akibat ayah dan ibu Lail yang terkena letusan Gunung Api Purba dan gempa yang membuat kota tempat mereka tinggal hancur.
+            \n\nLail yang pada saat itu juga termasuk korban bencana berhasil diselamatkan oleh anak laki-laki bernama Esok. Lail dan Esok akhirnya menjadi sepasang yang tak terpisahkan sampai akhirnya mereka harus berpisah karena tempat pengungsian yang mereka tinggali tutup. Lail akhirnya menetap di sebuah panti sosial dan Esok diangkat menjadi anak salah satu keluarga.
+            \n\nMereka menjalani kehidupannya masing-masing. Pertemuan mereka untuk melepas rindu dilakukan rutin sebulan sekali meski akhirnya jadwal pertemuan harus diubah akibat Esok yang harus meneruskan pendidikan di Ibu Kota. Pertemuan mereka berubah menjadi setiap Esok berlibur semester. Frekuensi pertemuan keduanya semakin jarang.
+            \n\nSampai suatu ketika, ayah angkat Esok, wali kota, menemui Lail dan memohon agar Lail menolak tiket yang akan diberikan esok agar tiket tersebut dapat diberikan ke anaknya. Kesalahpahaman pun terjadi. Lail tak kunjung mendapatkan kabar dari Esok. Akhirnya, Lail memutuskan untuk masuk ke ruang modifikasi ingatan. Lail ingin semua memori dan beban yang ada di ingatannya menghilang. Lantas apa yang akan terjadi pada kisah Lail dan Esok?
+            \n\nSinopsis
+            \n\nNovel HUJAN berkisah tentang persahabatan, tentang cinta, tentang perpisahan, tentang melupakan, dan tentang hujan.
+        </item>
+
+        <item>
+            Buku novel yang berjudul Pergi karya Tere Liye ini merupakan sekuel dari novel Pulang. Buku ini dapat dinikmati oleh pembaca remaja maupun dewasa. Sekuel dari Novel “Pulang” ini menceritakan tentang tokoh Bujang yang menjadi penerus Tauke Besar di Keluarga Tong, salah satu keluarga Shadow Economy di dunia. Semenjak dibawa dari Talang, Bujang dibesarkan menjadi laki-laki yang berpendidikan tinggi, cerdas, cekatan, ahli taktik, dan sekaligus tukang jagal nomor satu Keluarga Tong. Hingga akhir hayat Tauke Besar, Bujang yang masih tergolong muda dipilih menjadi Kepala Keluarga Tong, Tauke Besar yang baru.
+            \n\nDibawah kepemimpinan Bujang, Keluarga Tong sering mengalami kesulitan serta serangan dari keluarga Shadow Economy yang lain. Masalah menjadi semakin rumit ketika ancaman justeru datang dari Master Dragon, kepala dari seluruh keluarga Shadow Economy yang seharusnya menjadi penengah di antara seluruh keluarga. Kemajuan bisnis Keluarga Tong dibawah pimpinan Bujang membuat Master Dragon cemas. Master Dragon menganggap bahwa Keluarga Tong akan menjadi ancaman atas kedudukannya sebagai kepala dari seluruh keluarga Shadow Economy.
+            \n\nPerjalanan cerita semakin seru ketika perlawanan serta serangan demi serangan dilancarkan Mater Dragon demi menghancurkan pertahanan Keluarga Tong. Alur kisah diceritakan secara detail sehingga kita bisa merasakan suasana tegang peperangan yang terjadi antar keluarga Shadow Economy tersebut.
+            \n\nKelanjutan cerita serunya dapat kalian dapatkan di dalam buku ini!
+            \n\nSinopsis
+            \n\nSebuah kisah tentang menemukan tujuan, ke mana hendak pergi, melalui kenangan demi kenangan masa lalu, pertarungan hidup-mati, untuk memutuskan ke mana langkah kaki akan dibawa.
+        </item>
+
+        <item>
+            Buku novel yang berjudul Pulang ini merupakan karya dari penulis novel yang banyak digemari karya-karyanya, yaitu Tere Liye. Novel ini dapat dinikmati oleh pembaca baik di kalangan remaja maupun orang dewasa.
+            \n\nKisah ini menceritkan perjalanan sosok pria bernama Bujang yang begitu suskses dalam bisnis shadow economy yang ia geluti. Kepandaian dan keteguhan prinsipnya telah mengantarkannya ke puncak kesuksesan. Sebagai seorang mafia, Bujang sangat disegani oleh pelaku bisnis shadow economy dari berbagai negara lain. Bahkan seorang presiden dibuat tak berkutik di hadapanya.
+            \n\nNamun, untuk sampai di titik kesuksesan itu memang tidaklah mudah bagi Bujang. Ia harus melewati berbagai pertempuran serta penghianatan yang begitu menyakitkan. Bahkan karena kefokusannya menjalankan bisnis jagal dunia milik keluaga Tong ini, ia sampai tak sempat mengucapkan salam perpisahan kala bapak ibunya pulang mengahadap sang tuhan.
+            \n\nNovel Pulang karya Tere Liye ini mengkat kisah pergulatan hidup sosok pria kecil dari pelosok daratan Bukit Tinggi yang kemudian dibawa ke kota untuk ditempa menjadi seorang tukang jagal dunia. Keteguhan, keuletan, serta kesetiannya telah mengantarkan dirinya ke puncak tertinggi kesuksesanya. Akan tetapi, setelah semua perjalanan yang ia lalui, ia menyadari kehampaan besar di dalam hidupnya. Semua prestasi dan pencapaianya dalam bidang shadow economy rupanya tak bisa memberikan ketenagan apapun dalam hidupnya. Saat itulah ia merasa kedamaianlah yang ia butuhkan dan kini ia telah menyadari makna pulang yang sebenarnya, yakni pulang menjemput kedamaian.
+            \n\nSinopsis
+            \n\n"Aku tahu sekarang, lebih banyak luka di hati bapakku dibanding di tubuhnya. Juga mamakku, lebih banyak tangis di hati Mamak dibanding di matanya."
+            \n\nSebuah kisah tentang perjalanan pulang, melalui pertarungan demi pertarungan, untuk memeluk erat semua kebencian dan rasa sakit."
+        </item>
+
+        <item>
+            Novel yang berjudul Rindu merupakan karya dari penulis novel terkenal yaitu Tere Liye. Buku ini dapat dinikmati oleh pembaca baik dari kalangan remaja maupun orang dewasa. Buku ini akan menceritakan tentang perjalanan yang panjang dengan sebuah kerinduan, akan bertemakan zaman penjajahan belanda di tanggal 1 desember 1938 dimana dalam sejarah kita Makassar yang untuk pertama kalinya dimunculkan oleh kedatangan kapal uap yang sangat besar pada zamannya. Tertulis sangat besar “Blitar Holland” di lambung kapal uap tersebut, saat itu tidak ada yang bisa menandingi tingginya menara uap dari kapal tersebut. Saat itulah dimulai perjalanan dengan rasa rindu yang banyak menimbun beban di dalam hati.
+            \n\nSinopsis
+            \n\nApalah arti memiliki? Ketika diri kami sendiri bukanlah milik kami. Apalah arti kehilangan, Ketika kami sebenarnya menemukan banyak saat kehilangan, dan sebaliknya, kehilangan banyak pula saat menemukan? Apalah arti cinta, Ketika kami menangis terluka atas perasaan yang seharusnya indah? Bagaimana mungkin, kami terduduk patah hati atas sesuatu yang seharusnya suci dan tidak menuntut apa pun? Wahai, bukankah banyak kerinduan saat kami hendak melupakan? Dan tidak terbilang keinginan melupakan saat kami dalam rindu? Hingga rindu dan melupkan jaraknya setipis benang saja.” Ini adalah kisah tentang masa lalu yang memilukan. Tentang kebencian kepada seseorang yang seharusnya disayangi. Tentang kehilangan kekasih hati. Tentang cinta sejati. Tentang kemunafikan. Lima kisah dalam sebuah perjalanan panjang kerinduan. Selamat membaca.
+        </item>
+
+        <item>
+            Buku ke-13 dari serial BUMI karya Tere Liye ini menceritakan kisah keluarga Ali. Perasaan seperti sedih, senang, takut, bahkan tertawa karena kelucuan para tokoh, akan dengan mudah dirasakan sembari mengikuti petualangan Ali, Raib, dan Seli yang dipenuhi rintangan.
+            \n\nSinopsis
+            \n\nPertanyaan-pertanyaan seperti “kemana orang tua Ali?”, “Apa orang tua Ali masih hidup?”, atau “dari Klan manakah Ali berasal?” akan terjawab di buku ini.
+            \n\nDi buku ke-13 serial BUMI, akhirnya, siapa orang tua Ali dijawab di buku ini.
+            \n\nAli, bertahun-tahun, berusaha memecahkan misteri itu. Kali ini, Ali melupakan sekolah. Sudah 3 hari ia tidak hadir di sekolah, membolos. Raib dan Seli tentu tidak akan membiarkan Ali sendirian memecahkan misteri tersebut, seperti layaknya sahabat sejati. Memulai perjalanannya, mereka berusaha mencari orang tuanya dan letak klan SagaraS.
+            \n\nDan jangan lupakan, Batozar alias Master B, dengan segenap kalimat kasar, seolah tidak peduli, dia selalu siap membela. Diceritakan pula dalam buku ini, alasan mengapa Master B atau Batozoar memiliki wajah yang seram, serta munculnya kedekatan hubungan antara Master B dengan Ali, Seli, dan Raib. Penuh drama, perasaan yang dimainkan di dalam buku ini sangatlah beragam.
+            \n\nTapi bagaimana jika misteri itu terhadang tembok kokoh Sagaras? Dan mereka harus bertarung hidup-mati lima ronde melawan Ksatria SagaraS?
+        </item>
+
+        <item>
+            Buku ini menceritakan kisah Amel, yang bernama lengkap Amelia. Amel adalah anak bungsu dari Pak Shardan dan Ibu Nurmas, serta memiliki tiga kakak perempuan: Kakak Eli (Eliana), Kakak Pukat, dan Kakak Burlian. Tiga saudara Amel juga memiliki cerita dalam buku mereka sendiri.
+            \n\nMasa kecil Amel sangat menggembirakan karena orang tuanya menanamkan nilai-nilai yang baik tentang kehidupan dan nilai-nilai agama. Amel dan keluarganya tinggal di sebuah lembah desa yang sangat indah.
+            \n\nAmel sering diejek oleh dua kakak laki-lakinya yang sangat jahil, Kak Pukat dan Kak Burlian. Mereka memiliki nama panggilan yang lucu menurutku. Jadi, "dua sigung". Kedua sigung memanggil Amell "pembantu rumah tangga". Artinya, ketika ketiga bersaudara itu tumbuh dewasa, mereka akan mengembara jauh, tetapi Amel harus tinggal di rumah.
+            \n\nSinopsis
+            \n\n"Kau anak paling kuat di keluarga ini, Amelia. Bukan kuat secara fisik, tapi kuat dari dalam. Kau adalah anak yang paling teguh hatinya, paling kokoh pemahaman baiknya. Kau menyayangi sekitar, dan sungguh-sungguh mau membantu orang lain."
+            \n\nBuku ini tentang Amelia, kisah anak yang memiliki mimpi-mimpi hebat untuk kampung halamannya.
+        </item>
+
+        <item>
+            Si Anak Spesial adalah novel populer karya penulis terkenal, Tere Liye. Diterbitkan oleh Penerbit Republika pada tahun 2018, novel ini cocok dibaca oleh pembaca lintas usia dan lintas gender. Si Anak Spesial menceritakan kehidupan keluarga dari Sumatera Selatan yang menyelipkan banyak nilai moral berharga bagi pembaca sehingga membaca novel fiksi ini seperti membaca buku pengembangan diri, namun dengan cara yang menyenangkan.
+            Serial ini terdiri dari empat buku yang menceritakan kisah anak-anak Bapak dan Mamak yang berbeda-beda. Pembaca akan diajak menyelami kehidupan keluarga yang masih dibungkus kehidupan tradisional. Pada buku Si Anak Spesial ini, pembaca akan menelusuri kehidupan Burlian yang penuh canda tawa, namun juga dibungkus kerasnya hidup serta usaha pencapaian mimpinya. Sesuai dengan gaya penulisannya pada buku-buku sebelumnya, novel ini menggunakan bahasa yang sederhana namun sarat makna.
+            \n\nSinopsis
+            \n\nKenapa Bapak dan Mamak sejak kecil selalu bilang, "Kau Spesial, Burlian?" Itu cara terbaik bagi Bapak dan Mamak untuk menumbuhkan percaya diri dan kayakinan yang menjadi pegangan penting setiap kali terbentur masalah, Kau selalu spesial.
+            \n\nBuku ini tentang Burlian, si anak keras kepala yang memiliki masa kecil sangat spesial. Kelak dia akan mengelilingi dunia, menyaksikan betapa luasnya dunia dibanding kampung halamanya.
+        </item>
+
+        <item>
+            Wingit menceritakan kisah-kisah mistis atau horor yang dialami Sara Wijayanto, penulis Wingit sekaligus manusia yang memiliki kemampuan untuk melihat makhluk dari dunia lain. Buku ini cocok dibaca untuk pembaca yang menyukai genre horor dan kisah koror yang terjadi di Indonesia.
+            \n\nSinopsis
+            \n\nPenelusuran sebuah kompleks perumahan tua terbengkalai di daerah Jakarta Timur malam itu awalnya berjalan menyenangkan. Sebelum masuk ke area kompleks, saya bersama Wisnu, Fadi, dan Demian membuka vlog dengan gimmick seru untuk mencairkan suasana. Namun, saat tiba di sebuah lokasi rumah tingkat yang dikelilingi pepohonan dan semak, saya melihat semakin banyak makhluk tak kasatmata yang membuat saya terkejut. Tidak jauh dari situ, saya merasakan kehadiran sesosok hantu yang ingin berkomunikasi dengan saya. Hantu tersebut ternyata berwujud seorang anak kecil laki-laki. Fadi mengambil alih penelusuran saat makhluk tersebut berkomunikasi dengan saya. Selanjutnya, kami menyebut hantu anak kecil tersebut dengan nama Adik. Ia memiliki kebiasaan mengangkat kaki kanannya lalu menggesekkan tulang kering kaki kanannya ke betis kaki kiri seperti merasakan gatal. Ternyata, Adik tidak sendirian. Ia bersama dengan seorang kuntilanak yang ia panggil Tante. Adik bahkan menunjukkan di mana lokasi Tante berada, tepatnya di sebuah pohon. Inilah penelusuran kisah Adik dan Tante Kun....
+        </item>
+
+        <item>
+            Novel Home Sweet Loan ditulis oleh Almira Bastari, seorang penulis muda yang namanya sudah populer di Indonesia. Novel Home Sweet Loan baru saja diterbitkan oleh Gramedia Pustaka Utama pada tahun 2022.
+            \n\nNovel Home Sweet Loan mengangkat genre yang sama dengan karya Almira sebelumnya yang berjudul “Ganjil Genap”, yaitu metropop. Namun, novel Home Sweet Loan ini akan menyajikan cerita yang ditulis menjadi lebih serius.
+            \n\nLayaknya novel-novel karya Almira sebelumnya, Home Sweet Loan menggunakan latar cerita di Kota Jakarta. Namun, cerita kali ini lebih menyoroti kaum menengah dengan mengisahkan perjuangan dari sudut pandang mereka.
+            \n\nSinopsis
+            \n\nEmpat orang yang berteman sejak SMA bekerja di perusahaan yang sama meski beda nasib. Di usia 31 tahun, mereka berburu rumah idaman yang minimal nyerempet Jakarta. Kaluna, pegawai Bagian Umum, yang gajinya tak pernah menyentuh dua digit. Gadis ini bekerja sampingan sebagai model bibir, bermimpi membeli rumah demi keluar dari situasi tiga kepala keluarga yang bertumpuk di bawah satu atap. Di tengah perjuangannya menabung, Kaluna dirongrong oleh kekasihnya untuk pesta pernikahan mewah.
+            \n\nSelain itu, ada juga masalah hutang keluarganya. Masalah-masalah ini menjadikan Kaluna merasa menjadi rakyat jelata saja tidak cukup membuat kepalanya mumet luar biasa. Tanisha, ibu satu anak yang menjalani Long Distance Marriage, mencari rumah murah dekat MRT yang juga bisa menampung mertuanya.
+            \n\nKamamiya, yang berambisi menjadi selebgram, mencari apartemen cantik untuk diunggah ke media sosial demi memenuhi gengsinya agar bisa menikah dengan pria kaya. Danan, anak tunggal tanpa beban yang akhirnya berpikir untuk berhenti hura-hura, dan membeli aset agar bisa pensiun dengan tenang. Apakah keempat sahabat ini berhasil menemukan rumah yang mampu mereka cicil? Dan apakah Kaluna bisa membentuk keluarga yang ia impikan?
+        </item>
+    </string-array>
+
+
+</resources>
