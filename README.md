@@ -1,2 +1,1 @@
-# my-novel-app
-Aplikasi sederhana dengan menampilkan 10 list novel dan halaman detail novel.
+## This is the final submission project for learning Android for beginners in Dicoding
